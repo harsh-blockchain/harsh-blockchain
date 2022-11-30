@@ -29,10 +29,13 @@
 <br/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh-blockchain&theme=highcontrast)](https://github.com/harsh-blockchain/github-readme-streak-stats)
 
 
 ## 📊 My Github Stats
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh-blockchain&theme=highcontrast)](https://github.com/harsh-blockchain/github-readme-streak-stats)
+
 
   <br/>
     <a href="https://github.com/harsh-blockchain/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harsh-blockchain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
