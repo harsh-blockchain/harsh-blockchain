@@ -5,6 +5,8 @@
 
 
 ## 🙋‍♂️ About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 I’m currently exploring **Defi**
 
@@ -12,7 +14,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://harshbardhan.tech)**
