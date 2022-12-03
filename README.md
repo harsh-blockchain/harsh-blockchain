@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]([https://portfolio-harshbardhan20.vercel.app])**
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-harshbardhan20.vercel.app">My Portfolio</a>
 
 - 📫 How to reach me **harshbardhanweb3@gmail.com**
 
